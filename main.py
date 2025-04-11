@@ -1,3 +1,10 @@
+# Topics in Computer Vision Related to the Code:
+# Pixel-level Image Processing: The code operates at the pixel level by extracting RGB values for clicked locations.
+# Color Space and Representation: RGB color space is used for representing and comparing colors.
+# Distance Metrics in Color Matching: The Manhattan distance is employed to quantify color similarity.
+# Human-Computer Interaction (HCI): The use of mouse events and real-time feedback to enable user interaction with the image.
+# This type of work is widely applicable in fields like agriculture, healthcare, fashion, and computer vision-assisted applications.
+
 import cv2
 import pandas as pd
 from datetime import datetime
@@ -117,9 +124,3 @@ while True:
 cv2.destroyAllWindows()
 
 
-# Topics in Computer Vision Related to the Code:
-# Pixel-level Image Processing: The code operates at the pixel level by extracting RGB values for clicked locations.
-# Color Space and Representation: RGB color space is used for representing and comparing colors.
-# Distance Metrics in Color Matching: The Manhattan distance is employed to quantify color similarity.
-# Human-Computer Interaction (HCI): The use of mouse events and real-time feedback to enable user interaction with the image.
-# This type of work is widely applicable in fields like agriculture, healthcare, fashion, and computer vision-assisted applications.
